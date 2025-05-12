@@ -60,8 +60,8 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 Clonez le dépôt Git et accédez au répertoire du projet :
 
 ```bash
-git clone <url-du-depot>
-cd <dossier-du-projet>
+git clone https://github.com/fayeboua/tp-a57-lab2.git
+cd tp-a57-lab2
 ```
 
 ### 2. Construire et Lancer les Services
