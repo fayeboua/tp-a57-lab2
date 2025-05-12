@@ -89,7 +89,6 @@ docker-compose down
 ## Notes
 
 - Assurez-vous que les ports requis (5000, 80, 9000) ne sont pas utilisés par d'autres applications.
-- Pour une utilisation en production, envisagez de sécuriser Nginx avec HTTPS et de configurer des variables d'environnement pour Flask.
 
 ---
 
